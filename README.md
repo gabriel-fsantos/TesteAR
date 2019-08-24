@@ -1,8 +1,8 @@
 # TesteAR
 
-Feita com Unity3D e VuforiaAR
+Feito com Unity3D e VuforiaAR
 
-Simplesmente feito para renderizar um objeto 3D em cima de uma imagem especifica
+Simplesmente feito para renderizar um objeto 3D em cima de uma imagem especifica 
 
 ## Teste
 
