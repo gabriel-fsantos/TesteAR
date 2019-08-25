@@ -10,8 +10,7 @@ Simplesmente feito para renderizar um objeto 3D em cima de uma imagem especifica
 
 Para utilizar, basta instalar o [apk][apk] em seu android e imprimir o [target][target] ou usa-lo em uma tela.
 
-![Screen](/Images-github/1.png)
-![Screen](/Images-github/2.png)
+<img src="/Images-github/1.png" width=434> <img src="/Images-github/2.png" width=434>
 
 ## Assets Usados
 
